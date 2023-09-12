@@ -1,4 +1,4 @@
-availability,size,total_sqft,bath,balcony,price,area_type_Carpet  Area,area_type_Plot  Area,area_type_Super built-up  Area
+availability,size,total_sqft,bath,balcony,price,area_type_Carpet,area_type_Plot,area_type_Superbuilt-up
 0,3,1056,2,1,39.07,0,0,1
 1,6,2600,5,3,120,0,1,0
 1,5,1521,3,1,95,0,0,1
